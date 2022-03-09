@@ -1,2 +1,2 @@
-# fitmama
+# fitmama APP
 Fitmama APP
